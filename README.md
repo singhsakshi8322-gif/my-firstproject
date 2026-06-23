@@ -2,7 +2,6 @@
 <html>
     <head>
         <title>My first page</title>
-    
     </head>
     <body>
         <h1>hello world </h1>
